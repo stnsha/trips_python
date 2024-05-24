@@ -1,0 +1,1 @@
+<p>The code is my answer from a technical test I participated in during a job interview. I've omitted the database connection details for privacy reasons. I'm keeping this for my personal records in the future.</p>
